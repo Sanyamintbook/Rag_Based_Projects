@@ -1,0 +1,21 @@
+{
+  "student": "dev",
+  "integrity_score": 100,
+  "verdict": "clean",
+  "positive": {
+    "originality_score": 53.8,
+    "vocab_diversity": 70.5,
+    "burstiness": 3.2,
+    "personal_markers": 0
+  },
+  "negative": {
+    "ai_percentage": 0.0,
+    "ai_verdict": "unknown",
+    "ai_reasoning": "AI detector unavailable: HTTPConnectionPool(host='45.194.3.86', port=11434): Read timed out. (read timeout=300)",
+    "flagged_sentences": [],
+    "peer_similarity": 39.6,
+    "paraphrase_percent": 0.0,
+    "paraphrase_pairs": []
+  },
+  "closest_peer": "y"
+}

@@ -1,0 +1,81 @@
+{
+  "student": "priya",
+  "integrity_score": 60,
+  "verdict": "review",
+  "positive": {
+    "originality_score": 78.5,
+    "vocab_diversity": 60.8,
+    "burstiness": 4.9,
+    "personal_markers": 5
+  },
+  "negative": {
+    "ai_percentage": 85.0,
+    "ai_verdict": "high",
+    "ai_reasoning": "The text shows repetitive sentence patterns, generic examples without personal context, and overly formal vocabulary for a student's grade level.",
+    "flagged_sentences": [
+      {
+        "sentence": "Without water we cannot live even for few days.",
+        "reason": "Unnaturally perfect grammar and structure"
+      },
+      {
+        "sentence": "This is why saving water is so important.",
+        "reason": "Generic example with no personal context"
+      }
+    ],
+    "peer_similarity": 100.0,
+    "paraphrase_percent": 100.0,
+    "paraphrase_pairs": [
+      {
+        "sentence_a": "ASSIGNMENT Date of Submission: 9 June 2026 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Introduction Water is one of the most important things we need to survive",
+        "sentence_b": "ASSIGNMENT Date of Submission: 9 June 2026 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Introduction Water is one of the most important things we need to survive",
+        "similarity": 100.0
+      },
+      {
+        "sentence_a": "Without water we cannot live even for few days",
+        "sentence_b": "Without water we cannot live even for few days",
+        "similarity": 100.0
+      },
+      {
+        "sentence_a": "I always thought water is unlimited because we have so many rivers and oceans but when i read about it i was shocked that only 3 percent of all water on earth is fresh water that we can drink",
+        "sentence_b": "I always thought water is unlimited because we have so many rivers and oceans but when i read about it i was shocked that only 3 percent of all water on earth is fresh water that we can drink",
+        "similarity": 100.0
+      },
+      {
+        "sentence_a": "And most of that is also locked in glaciers and ice caps so actually very very less water is available for us to use",
+        "sentence_b": "And most of that is also locked in glaciers and ice caps so actually very very less water is available for us to use",
+        "similarity": 100.0
+      },
+      {
+        "sentence_a": "This is why saving water is so important",
+        "sentence_b": "This is why saving water is so important",
+        "similarity": 100.0
+      },
+      {
+        "sentence_a": "Why Water is Getting Scarce In our city the tanker comes every two days because tap water supply is not enough",
+        "sentence_b": "Why Water is Getting Scarce In our city the tanker comes every two days because tap water supply is not enough",
+        "similarity": 100.0
+      },
+      {
+        "sentence_a": "My mother fills all the buckets and drums when tanker comes",
+        "sentence_b": "My mother fills all the buckets and drums when tanker comes",
+        "similarity": 100.0
+      },
+      {
+        "sentence_a": "I used to think this is only our area problem but actually this is happening in many parts of India",
+        "sentence_b": "I used to think this is only our area problem but actually this is happening in many parts of India",
+        "similarity": 100.0
+      },
+      {
+        "sentence_a": "Cities like Chennai and Bengaluru have faced very serious water crisis in recent years",
+        "sentence_b": "Cities like Chennai and Bengaluru have faced very serious water crisis in recent years",
+        "similarity": 100.0
+      },
+      {
+        "sentence_a": "Farmers in Maharashtra and Rajasthan walk many kilometers just to get drinking water for their families",
+        "sentence_b": "Farmers in Maharashtra and Rajasthan walk many kilometers just to get drinking water for their families",
+        "similarity": 100.0
+      }
+    ]
+  },
+  "closest_peer": "y"
+}

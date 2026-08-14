@@ -1,0 +1,26 @@
+{
+  "student": "mc",
+  "integrity_score": 72,
+  "verdict": "clean",
+  "positive": {
+    "originality_score": 0.0,
+    "vocab_diversity": 0.0,
+    "burstiness": 0.0,
+    "personal_markers": 0
+  },
+  "negative": {
+    "ai_percentage": 92.0,
+    "ai_verdict": "high",
+    "ai_reasoning": "The text shows repetitive sentence patterns, overly formal vocabulary, and lacks personal voice or colloquial expressions.",
+    "flagged_sentences": [
+      {
+        "sentence": "One short sentence explaining why it seems AI-written",
+        "reason": "Represents a generic statement without personal context or informal language"
+      }
+    ],
+    "peer_similarity": 0.0,
+    "paraphrase_percent": 0.0,
+    "paraphrase_pairs": []
+  },
+  "closest_peer": null
+}
